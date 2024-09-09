@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\GUI POE Part 1.exe.config
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\GUI POE Part 1.exe
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\GUI POE Part 1.pdb
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI POE Part 1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI_POE_Part_1.Form1.resources
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI_POE_Part_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI POE Part 1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI POE Part 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI POE Part 1.exe
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI POE Part 1.pdb
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\RestSharp.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.CodeDom.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\RestSharp.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI POE .A7C67EDC.Up2Date
+C:\Users\Admin\Desktop\Prac\Windows Forms\GUI POE Part 1\GUI POE Part 1\obj\Debug\GUI_POE_Part_1.Form2.resources
